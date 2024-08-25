@@ -1,0 +1,54 @@
+.contenedor{
+    width: 180px;
+    height: 250px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 7%;
+    margin-left: 42%;
+    text-align:center;
+}
+
+body{
+    display: block;
+    text-align: center;
+    border-radius: 7%;
+    border: 5px solid rgb(0, 0, 0);
+    background: linear-gradient(rgb(231, 7, 7), rgb(5, 9, 209));
+}
+
+form{
+    display: block;
+}
+.cont{
+    display: flex;
+}
+
+.contenedor1{
+    width: 180px;
+    height: 250px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 7%;
+    margin-left: 14%;
+    margin-top: 13%;
+    text-align:center;
+}
+
+.contenedor2{
+    width: 180px;
+    height: 250px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 7%;
+    margin-left: 14%;
+    margin-top: 2%;
+    text-align:center;
+}
+
+.contenedor3{
+    width: 180px;
+    height: 250px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 7%;
+    margin-left: 14%;
+    margin-top: 13%;
+    text-align:center;
+}
+
